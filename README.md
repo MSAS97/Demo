@@ -13,4 +13,4 @@ Snapchat
 YouTube
 reddit
 
-Amazon
+Amazon Prime
