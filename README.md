@@ -12,3 +12,5 @@ Instagram
 Snapchat
 YouTube
 reddit
+
+Amazon
